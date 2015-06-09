@@ -6,4 +6,4 @@
  - Smartlock can unlock your Chromebook
  - http://get.google.com/smartlock/
 
-[Video](https://www.youtube.com/watch?v=cY77sSctzec)(Not the I/O session, but DevBytes instead)
+[Video](https://www.youtube.com/watch?v=cY77sSctzec) (Not the I/O session, but DevBytes instead)
