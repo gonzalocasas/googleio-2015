@@ -1,0 +1,5 @@
+ - trusted voice for context: "Ok Google, navigate home" knows who is talking hence whose 'home' it means
+ - on-body detection: uses acceleromenters to detect phone is still on you so don't need to unlock it
+ - your phone = your key = your identity! they are working to make the phone literally be the keys to the physical world
+ - smartlock can unlock your Chromebook
+ - http://google.com/smartlock (link's not working right now?)
