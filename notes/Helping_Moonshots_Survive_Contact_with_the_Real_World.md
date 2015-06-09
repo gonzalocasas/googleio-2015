@@ -1,3 +1,7 @@
+# Helping Moonshots Survive Contact with the Real World
+
+[Video](https://www.youtube.com/watch?v=DIMqIGax8Co)
+
 Moonshots: everyone thing is someone else's job. Big guys: "we can't do it, we're too big to risk it". Small guys: "we can't do it, we're too small, no resources to risk it". Gov: "we did it in the 70s, we're not doing it anymore". Academics: "we do the science, you go build it".
 
 But, everyone can work on moonshots.

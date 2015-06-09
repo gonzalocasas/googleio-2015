@@ -1,4 +1,8 @@
-# Project Loon
+# Engineering for the Stratosphere
+
+[Video](https://www.youtube.com/watch?v=8IwazMmHWvc)
+
+## Project Loon
 The question they try to answer: Could we get EVERYONE connected, across the globe, no exceptions?
 
 How Loon works:
