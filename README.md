@@ -14,3 +14,7 @@ Session notes:
  - [Real-time analytics for mobile and IoT](notes/Real-time_analytics_for_mobile_and_IoT.md)
  - [Smarter and personalized device authentication with Smart Lock](notes/Smarter_and_personalized_device_authentication_with_Smart_Lock.md)
  - [The next generation mobile web](notes/The_next_generation_mobile_web.md)
+
+Other videos to watch:
+ - [Supercharging page load](https://www.youtube.com/watch?v=d5_6yHixpsQ)
+ 

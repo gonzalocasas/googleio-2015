@@ -10,7 +10,7 @@ Their blueprint of moonshot creation is the intersection of Huge Problem + Radic
 
 Some projects:
  - Massive Neural Network project is what graduated as Google Knowledge into the main Google infrastructure.
- - Flying Wind Turbines!!! (Did I hear this right?)
+ - Project Makani: Flying Wind Turbines!!! http://www.google.com/makani/
  - Project Smart Less: contact lenses that sense glucose levels to help diabetics.
  - Project Wing: self-driving flying vehicles for delivery, i.e. drone delivery.
  - Project Loon: balloons in stratosphere building a data network mesh to bring Internet everywhere. Right now they are way ahead of the first prototypes and into a viable venture. Balloons can stay flying for 6 months and they can steer them to a pretty accurate location if needed.

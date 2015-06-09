@@ -1,3 +1,5 @@
+# Asking for permission
+
 User reaction to notification permissions:
  - 53% ignored permission requests on Chrome
  - 25% dismissed it

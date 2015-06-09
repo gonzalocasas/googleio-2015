@@ -1,3 +1,5 @@
+# Real-time analytics for mobile and IoT
+
 Google Cloud Dataflow: fully managed bigdata stack to do real-time analytics
 
 How it works:
@@ -26,4 +28,4 @@ The most interesting part is the ability to do things like join multiple input p
 
 http://cloud.google.com
 
-Introducing Next, a series of events from Google Cloud Platform: cloud.google.com/next
+Introducing Next, a series of events from Google Cloud Platform: http://cloud.google.com/next
